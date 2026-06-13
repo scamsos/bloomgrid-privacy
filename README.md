@@ -1,0 +1,2 @@
+# bloomgrid-privacy
+privacy policy
